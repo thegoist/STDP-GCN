@@ -1,6 +1,6 @@
 # STDP-GCN
 Automatic Sleep Staging Using Adaptive Graph Convolutional Networks With STDP Mechanism
-![model_architecture](figs/stdpgcn.svg)
+![model_architecture](stdpgcn.svg)
 ## How to run
 Data can be downloaded by *get_ISRUC_S3.sh*
 ### Preprocess
